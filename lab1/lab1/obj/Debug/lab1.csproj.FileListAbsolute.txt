@@ -1,0 +1,51 @@
+C:\Users\musket\source\repos\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\musket\source\repos\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\musket\source\repos\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\musket\source\repos\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\musket\source\repos\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\musket\source\repos\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\musket\source\repos\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\musket\source\repos\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\musket\source\repos\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\musket\source\repos\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\musket\source\repos\lab1\lab1\obj\Debug\lab1.exe.config
+C:\Users\musket\source\repos\lab1\lab1\obj\Debug\lab1.Изменение.resources
+C:\Users\user\Desktop\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\user\Desktop\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\user\Desktop\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\user\Desktop\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\lab1\lab1\obj\Debug\lab1.exe.config
+C:\Users\user\Desktop\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\user\Desktop\lab1\lab1\obj\Debug\lab1.Изменение.resources
+C:\Users\user\Desktop\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\user\Desktop\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\user\Desktop\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\user\Desktop\lab1\lab1\obj\Debug\lab1.PassForm.resources
+C:\Users\musket\Desktop\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\musket\Desktop\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\musket\Desktop\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\musket\Desktop\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\musket\Desktop\lab1\lab1\obj\Debug\lab1.exe.config
+C:\Users\musket\Desktop\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\musket\Desktop\lab1\lab1\obj\Debug\lab1.Изменение.resources
+C:\Users\musket\Desktop\lab1\lab1\obj\Debug\lab1.PassForm.resources
+C:\Users\musket\Desktop\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\musket\Desktop\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\musket\Desktop\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\musket\Desktop\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\musket\Desktop\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.exe.config
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.Изменение.resources
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.PassForm.resources
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\user\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.pdb
